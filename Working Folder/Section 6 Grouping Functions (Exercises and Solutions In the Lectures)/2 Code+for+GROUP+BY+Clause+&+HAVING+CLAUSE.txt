@@ -18,7 +18,7 @@ from emp
 GROUP BY job
 
 
-SELECT distict job from emp
+SELECT DISTINCT job from emp
 
 
 SELECT count(*), job
