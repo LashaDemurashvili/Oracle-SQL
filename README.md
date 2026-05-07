@@ -1,1 +1,2 @@
 # Oracle-SQL
+This course helped me strengthen and expand my existing SQL knowledge by revisiting core database concepts and learning Oracle-specific features and practices. Since I already had experience working with SQL, the course allowed me to reinforce important topics such as query writing, joins, aggregations, subqueries, and data analysis, while also gaining a deeper understanding of Oracle SQL and database management. It also improved my practical problem-solving and analytical skills through hands-on database tasks.
